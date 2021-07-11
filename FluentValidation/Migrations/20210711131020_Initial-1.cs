@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace FluentValidation.Migrations
+namespace FluentValidationApp.Migrations
 {
     public partial class Initial1 : Migration
     {
